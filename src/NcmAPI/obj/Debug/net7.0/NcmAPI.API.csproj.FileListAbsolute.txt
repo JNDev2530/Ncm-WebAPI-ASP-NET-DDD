@@ -1,0 +1,223 @@
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.exe
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.deps.json
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.runtimeconfig.json
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Application.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Domain.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Infrastructure.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Application.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Infrastructure.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Domain.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.csproj.AssemblyReference.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.AssemblyInfoInputs.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.AssemblyInfo.cs
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.NcmAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.NcmAPI.API.props
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NcmAPI.API.props
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NcmAPI.API.props
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\scopedcss\bundle\NcmAPI.API.styles.css
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.csproj.CopyComplete
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\refint\NcmAPI.API.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.genruntimeconfig.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\ref\NcmAPI.API.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.exe
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.deps.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.runtimeconfig.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Application.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Domain.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Infrastructure.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Application.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Infrastructure.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Domain.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.AssemblyInfo.cs
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.NcmAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.NcmAPI.API.props
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NcmAPI.API.props
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NcmAPI.API.props
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\scopedcss\bundle\NcmAPI.API.styles.css
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.csproj.CopyComplete
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\refint\NcmAPI.API.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.genruntimeconfig.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI\obj\Debug\net7.0\ref\NcmAPI.API.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.exe
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.deps.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.runtimeconfig.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.API.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Application.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Domain.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Infrastructure.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Application.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Infrastructure.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\NcmAPI.Domain.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.AssemblyInfo.cs
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.NcmAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.NcmAPI.API.props
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NcmAPI.API.props
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NcmAPI.API.props
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\scopedcss\bundle\NcmAPI.API.styles.css
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.csproj.CopyComplete
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\refint\NcmAPI.API.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\NcmAPI.API.genruntimeconfig.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\obj\Debug\net7.0\ref\NcmAPI.API.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll

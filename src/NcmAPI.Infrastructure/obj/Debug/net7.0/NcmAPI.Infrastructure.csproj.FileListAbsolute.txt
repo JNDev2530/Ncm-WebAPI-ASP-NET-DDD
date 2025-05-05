@@ -1,0 +1,51 @@
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.deps.json
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Domain.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Domain.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.csproj.CopyComplete
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\refint\NcmAPI.Infrastructure.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\ref\NcmAPI.Infrastructure.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.deps.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.runtimeconfig.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Domain.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Domain.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\refint\NcmAPI.Infrastructure.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\ref\NcmAPI.Infrastructure.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.runtimeconfig.json
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.deps.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.runtimeconfig.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Infrastructure.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Domain.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\bin\Debug\net7.0\NcmAPI.Domain.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\refint\NcmAPI.Infrastructure.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\NcmAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Infrastructure\obj\Debug\net7.0\ref\NcmAPI.Infrastructure.dll

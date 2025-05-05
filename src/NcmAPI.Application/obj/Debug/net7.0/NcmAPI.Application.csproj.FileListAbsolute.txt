@@ -1,0 +1,45 @@
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Application.deps.json
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Application.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Application.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Domain.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Domain.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.AssemblyInfo.cs
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.csproj.CopyComplete
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\refint\NcmAPI.Application.dll
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.pdb
+C:\Users\Renata Sodre\Desktop\Desenvolvimento\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\ref\NcmAPI.Application.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Application.deps.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Application.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Application.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Domain.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Domain.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.csproj.CopyComplete
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\refint\NcmAPI.Application.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\Projeto - NcmAPI\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\ref\NcmAPI.Application.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Application.deps.json
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Application.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Application.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Domain.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\bin\Debug\net7.0\NcmAPI.Domain.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.csproj.CopyComplete
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\refint\NcmAPI.Application.dll
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\NcmAPI.Application.pdb
+C:\Users\User\Desktop\Jonas - My Universe\TI e Programação\Projetos\Portfolio\Ncm\NcmAPI\NcmAPI.Application\obj\Debug\net7.0\ref\NcmAPI.Application.dll
